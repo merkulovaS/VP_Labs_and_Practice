@@ -1,0 +1,7 @@
+C:\Users\smmer\source\repos\VP_Lab_2\VP_Lab_2\obj\Debug\VP_Lab_2.csproj.AssemblyReference.cache
+C:\Users\smmer\source\repos\VP_Lab_2\VP_Lab_2\obj\Debug\VP_Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\smmer\source\repos\VP_Lab_2\VP_Lab_2\bin\Debug\VP_Lab_2.dll.config
+C:\Users\smmer\source\repos\VP_Lab_2\VP_Lab_2\bin\Debug\VP_Lab_2.dll
+C:\Users\smmer\source\repos\VP_Lab_2\VP_Lab_2\bin\Debug\VP_Lab_2.pdb
+C:\Users\smmer\source\repos\VP_Lab_2\VP_Lab_2\obj\Debug\VP_Lab_2.dll
+C:\Users\smmer\source\repos\VP_Lab_2\VP_Lab_2\obj\Debug\VP_Lab_2.pdb
