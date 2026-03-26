@@ -1,0 +1,11 @@
+C:\Users\alifa\source\repos\VP_Pract3\UniversityApp\bin\Debug\net8.0\UniversityApp.deps.json
+C:\Users\alifa\source\repos\VP_Pract3\UniversityApp\bin\Debug\net8.0\UniversityApp.dll
+C:\Users\alifa\source\repos\VP_Pract3\UniversityApp\bin\Debug\net8.0\UniversityApp.pdb
+C:\Users\alifa\source\repos\VP_Pract3\UniversityApp\obj\Debug\net8.0\UniversityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alifa\source\repos\VP_Pract3\UniversityApp\obj\Debug\net8.0\UniversityApp.AssemblyInfoInputs.cache
+C:\Users\alifa\source\repos\VP_Pract3\UniversityApp\obj\Debug\net8.0\UniversityApp.AssemblyInfo.cs
+C:\Users\alifa\source\repos\VP_Pract3\UniversityApp\obj\Debug\net8.0\UniversityApp.csproj.CoreCompileInputs.cache
+C:\Users\alifa\source\repos\VP_Pract3\UniversityApp\obj\Debug\net8.0\UniversityApp.dll
+C:\Users\alifa\source\repos\VP_Pract3\UniversityApp\obj\Debug\net8.0\refint\UniversityApp.dll
+C:\Users\alifa\source\repos\VP_Pract3\UniversityApp\obj\Debug\net8.0\UniversityApp.pdb
+C:\Users\alifa\source\repos\VP_Pract3\UniversityApp\obj\Debug\net8.0\ref\UniversityApp.dll

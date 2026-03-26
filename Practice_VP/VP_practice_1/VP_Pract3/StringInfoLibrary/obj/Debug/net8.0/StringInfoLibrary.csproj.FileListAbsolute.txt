@@ -1,0 +1,15 @@
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\bin\Debug\net8.0\StringInfoLibrary.deps.json
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\bin\Debug\net8.0\StringInfoLibrary.dll
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\bin\Debug\net8.0\StringInfoLibrary.pdb
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\bin\Debug\net8.0\UniversityApp.dll
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\bin\Debug\net8.0\UniversityApp.pdb
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\obj\Debug\net8.0\StringInfoLibrary.csproj.AssemblyReference.cache
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\obj\Debug\net8.0\StringInfoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\obj\Debug\net8.0\StringInfoLibrary.AssemblyInfoInputs.cache
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\obj\Debug\net8.0\StringInfoLibrary.AssemblyInfo.cs
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\obj\Debug\net8.0\StringInfoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\obj\Debug\net8.0\StringIn.80F25552.Up2Date
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\obj\Debug\net8.0\StringInfoLibrary.dll
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\obj\Debug\net8.0\refint\StringInfoLibrary.dll
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\obj\Debug\net8.0\StringInfoLibrary.pdb
+C:\Users\alifa\source\repos\VP_Pract3\StringInfoLibrary\obj\Debug\net8.0\ref\StringInfoLibrary.dll
