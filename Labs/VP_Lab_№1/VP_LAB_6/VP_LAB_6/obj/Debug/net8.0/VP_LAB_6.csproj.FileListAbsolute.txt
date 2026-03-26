@@ -1,0 +1,11 @@
+C:\Users\smmer\source\repos\VP_LAB_6\VP_LAB_6\bin\Debug\net8.0\VP_LAB_6.deps.json
+C:\Users\smmer\source\repos\VP_LAB_6\VP_LAB_6\bin\Debug\net8.0\VP_LAB_6.dll
+C:\Users\smmer\source\repos\VP_LAB_6\VP_LAB_6\bin\Debug\net8.0\VP_LAB_6.pdb
+C:\Users\smmer\source\repos\VP_LAB_6\VP_LAB_6\obj\Debug\net8.0\VP_LAB_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smmer\source\repos\VP_LAB_6\VP_LAB_6\obj\Debug\net8.0\VP_LAB_6.AssemblyInfoInputs.cache
+C:\Users\smmer\source\repos\VP_LAB_6\VP_LAB_6\obj\Debug\net8.0\VP_LAB_6.AssemblyInfo.cs
+C:\Users\smmer\source\repos\VP_LAB_6\VP_LAB_6\obj\Debug\net8.0\VP_LAB_6.csproj.CoreCompileInputs.cache
+C:\Users\smmer\source\repos\VP_LAB_6\VP_LAB_6\obj\Debug\net8.0\VP_LAB_6.dll
+C:\Users\smmer\source\repos\VP_LAB_6\VP_LAB_6\obj\Debug\net8.0\refint\VP_LAB_6.dll
+C:\Users\smmer\source\repos\VP_LAB_6\VP_LAB_6\obj\Debug\net8.0\VP_LAB_6.pdb
+C:\Users\smmer\source\repos\VP_LAB_6\VP_LAB_6\obj\Debug\net8.0\ref\VP_LAB_6.dll

@@ -1,0 +1,12 @@
+C:\Users\smmer\source\repos\VP_Lab_3\VP_LAB3\obj\Debug\VP_LAB3.csproj.AssemblyReference.cache
+C:\Users\smmer\source\repos\VP_Lab_3\VP_LAB3\obj\Debug\VP_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\smmer\source\repos\VP_Lab_3\VP_LAB3\bin\Debug\VP_LAB3.exe.config
+C:\Users\smmer\source\repos\VP_Lab_3\VP_LAB3\bin\Debug\VP_LAB3.exe
+C:\Users\smmer\source\repos\VP_Lab_3\VP_LAB3\bin\Debug\VP_LAB3.pdb
+C:\Users\smmer\source\repos\VP_Lab_3\VP_LAB3\bin\Debug\VP_Lab_3.dll
+C:\Users\smmer\source\repos\VP_Lab_3\VP_LAB3\bin\Debug\VP_Lab_3.pdb
+C:\Users\smmer\source\repos\VP_Lab_3\VP_LAB3\bin\Debug\VP_Lab_3.dll.config
+C:\Users\smmer\source\repos\VP_Lab_3\VP_LAB3\obj\Debug\VP_LAB3.csproj.Up2Date
+C:\Users\smmer\source\repos\VP_Lab_3\VP_LAB3\obj\Debug\VP_LAB3.exe
+C:\Users\smmer\source\repos\VP_Lab_3\VP_LAB3\obj\Debug\VP_LAB3.pdb
+C:\Users\smmer\source\repos\VP_Lab_3\VP_LAB3\obj\Debug\VP_LAB3.exe.config
