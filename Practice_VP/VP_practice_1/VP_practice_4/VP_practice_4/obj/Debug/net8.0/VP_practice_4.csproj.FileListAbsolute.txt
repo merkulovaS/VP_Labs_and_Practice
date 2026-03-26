@@ -1,0 +1,11 @@
+C:\Users\smmer\source\repos\VP_practice_4\VP_practice_4\bin\Debug\net8.0\VP_practice_4.deps.json
+C:\Users\smmer\source\repos\VP_practice_4\VP_practice_4\bin\Debug\net8.0\VP_practice_4.dll
+C:\Users\smmer\source\repos\VP_practice_4\VP_practice_4\bin\Debug\net8.0\VP_practice_4.pdb
+C:\Users\smmer\source\repos\VP_practice_4\VP_practice_4\obj\Debug\net8.0\VP_practice_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smmer\source\repos\VP_practice_4\VP_practice_4\obj\Debug\net8.0\VP_practice_4.AssemblyInfoInputs.cache
+C:\Users\smmer\source\repos\VP_practice_4\VP_practice_4\obj\Debug\net8.0\VP_practice_4.AssemblyInfo.cs
+C:\Users\smmer\source\repos\VP_practice_4\VP_practice_4\obj\Debug\net8.0\VP_practice_4.csproj.CoreCompileInputs.cache
+C:\Users\smmer\source\repos\VP_practice_4\VP_practice_4\obj\Debug\net8.0\VP_practice_4.dll
+C:\Users\smmer\source\repos\VP_practice_4\VP_practice_4\obj\Debug\net8.0\refint\VP_practice_4.dll
+C:\Users\smmer\source\repos\VP_practice_4\VP_practice_4\obj\Debug\net8.0\VP_practice_4.pdb
+C:\Users\smmer\source\repos\VP_practice_4\VP_practice_4\obj\Debug\net8.0\ref\VP_practice_4.dll

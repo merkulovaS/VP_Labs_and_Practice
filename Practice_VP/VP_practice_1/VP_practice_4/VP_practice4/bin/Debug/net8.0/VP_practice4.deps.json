@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VP_practice4/1.0.0": {
+        "dependencies": {
+          "VP_practice_4": "1.0.0"
+        },
+        "runtime": {
+          "VP_practice4.dll": {}
+        }
+      },
+      "VP_practice_4/1.0.0": {
+        "runtime": {
+          "VP_practice_4.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VP_practice4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VP_practice_4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
